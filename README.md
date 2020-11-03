@@ -1,2 +1,5 @@
 # AspNetCore-JwtAuthenticate
- Projeto Asp.Net Core utilizando autenticação JWT (Json Web Token)
+ Simples projeto AspNetCore demonstrado basicamente como utilizar autenticação JSON Web Token (JWT)
+
+
+
